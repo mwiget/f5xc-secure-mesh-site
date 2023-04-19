@@ -1,0 +1,15 @@
+project_prefix = "prefix"
+
+vsphere_server     = ""
+vsphere_user       = "administrator@vsphere.local"
+vsphere_password   = ""
+vsphere_datacenter = "Datacenter"
+vsphere_cluster    = "Cluster"
+f5xc_vm_template   = "centos-7.2009.27-202209150812"
+#f5xc_ova_image     = "/Users/user/Downloads/centos-7.2009.27-202209150812.ova"
+
+f5xc_api_url      = "https://tenant.console.ves.volterra.io/api"
+f5xc_api_token    = ""
+f5xc_tenant       = "tenant-........"
+f5xc_api_p12_file = "/Users/user/certs/tenant.console.ves.volterra.io.api-creds.p12"
+
